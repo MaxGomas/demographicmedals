@@ -1,10 +1,10 @@
-# Demographic Medals
+# 🥇 Explore Paris2024 Medals tally with AI
 
 ## Intro
 
-🎯 Explore and start explaining olympic medal winning countries results
+🎯 Explore and start explaining olympic medal countries results
 
-🎯 Do it in ~10 min using cutting edge genAI tools 
+🎯 Do it in <10 min using cutting edge genAI tools 
 - Github Copilot
 - Copilot for web
 
