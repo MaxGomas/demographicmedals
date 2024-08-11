@@ -111,7 +111,7 @@ def plot_medals_tally(df)
 
 *what's worth noticing is that GitHub Copilot understood the context and even propose to stack bar's color accordingly. I had to iterate in order to display medal count*
 
-After that, cracking the medal per cap data display
+After that, pusing the analyzis in order to show which country win a lot of medals and which win a lot of medals per person. Like a "magic quadrant"
 ```
 def plot_medals_vs_medals_per_million(df)
 ```
