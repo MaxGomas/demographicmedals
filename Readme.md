@@ -23,18 +23,19 @@ Create a CSV file with the top 10 countries and their medal tally from the Paris
 
 Sure! Here’s the current medal tally for the Paris 2024 Olympics:
 
-| Rank | Country        | Gold | Silver | Bronze | Total |
-|------|----------------|------|--------|--------|-------|
-| 1    | United States  | 30   | 38     | 35     | 103   |
-| 2    | China          | 29   | 25     | 19     | 73    |
-| 3    | Australia      | 18   | 14     | 13     | 45    |
-| 4    | France         | 14   | 19     | 21     | 54    |
-| 5    | Great Britain  | 13   | 17     | 21     | 51    |
-| 6    | South Korea    | 13   | 8      | 7      | 28    |
-| 7    | Japan          | 13   | 7      | 13     | 33    |
-| 8    | Netherlands    | 11   | 6      | 8      | 25    |
-| 9    | Italy          | 10   | 11     | 9      | 30    |
-| 10   | Germany        | 9    | 8      | 5      | 22    |
+| Rank | Country                | Gold | Silver | Bronze | Total |
+|------|------------------------|------|--------|--------|-------|
+| 1    | United States          | 40   | 44     | 42     | 126   |
+| 2    | China                  | 40   | 27     | 24     | 91    |
+| 3    | Japan                  | 20   | 12     | 13     | 45    |
+| 4    | Australia              | 18   | 19     | 16     | 53    |
+| 5    | France                 | 16   | 26     | 22     | 64    |
+| 6    | Netherlands            | 15   | 7      | 12     | 34    |
+| 7    | Great Britain          | 14   | 22     | 29     | 65    |
+| 8    | South Korea            | 13   | 9      | 10     | 32    |
+| 9    | Italy                  | 12   | 13     | 15     | 40    |
+| 10   | Germany                | 12   | 13     | 8      | 33    |
+
 
 This table includes the top 10 countries based on their total medal count.
 
@@ -66,18 +67,19 @@ Please complete the table with the number of inhabitants per country, using Data
 
 Here’s the updated medal tally table for the Paris 2024 Olympics, now including the number of inhabitants per country based on data from Database.earth:
 
-| Rank | Country        | Gold | Silver | Bronze | Total | Population (2023) |
-|------|----------------|------|--------|--------|-------|-------------------|
-| 1    | United States  | 30   | 38     | 35     | 103   | 345,426,571       |
-| 2    | China          | 29   | 25     | 19     | 73    | 1,425,671,352     |
-| 3    | Australia      | 18   | 14     | 13     | 45    | 26,966,789        |
-| 4    | France         | 14   | 19     | 21     | 54    | 66,438,822        |
-| 5    | Great Britain  | 13   | 17     | 21     | 51    | 68,682,962        |
-| 6    | South Korea    | 13   | 8      | 7      | 28    | 51,748,739        |
-| 7    | Japan          | 13   | 7      | 13     | 33    | 123,294,513       |
-| 8    | Netherlands    | 11   | 6      | 8      | 25    | 17,618,299        |
-| 9    | Italy          | 10   | 11     | 9      | 30    | 59,499,453        |
-| 10   | Germany        | 9    | 8      | 5      | 22    | 83,294,633        |
+| Rank | Country                | Gold | Silver | Bronze | Total | Population (2023)  |
+|------|------------------------|------|--------|--------|-------|--------------------|
+| 1    | United States          | 40   | 44     | 42     | 126   | 345,426,571        |
+| 2    | China                  | 40   | 27     | 24     | 91    | 1,425,671,352      |
+| 3    | Japan                  | 20   | 12     | 13     | 45    | 123,294,513        |
+| 4    | Australia              | 18   | 19     | 16     | 53    | 26,966,789         |
+| 5    | France                 | 16   | 26     | 22     | 64    | 66,438,822         |
+| 6    | Netherlands            | 15   | 7      | 12     | 34    | 17,618,299         |
+| 7    | Great Britain          | 14   | 22     | 29     | 65    | 68,682,962         |
+| 8    | South Korea            | 13   | 9      | 10     | 32    | 51,748,739         |
+| 9    | Italy                  | 12   | 13     | 15     | 40    | 59,499,453         |
+| 10   | Germany                | 12   | 13     | 8      | 33    | 83,294,633         |
+
 
 Is there anything else you’d like to know about the Olympics or any other topic?
 
