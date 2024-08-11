@@ -113,7 +113,7 @@ Create a stackbar chart with label is country, then the bars are the correspondi
 
 *what's worth noticing is that GitHub Copilot understood the context and even propose to stack bar's color accordingly. I had to iterate in order to display medal count*
 
-After that, pusing the analyzis in order to show which country win a lot of medals and which win a lot of medals per person. Like a "magic quadrant"
+After that, pushing the analyzis in order to show which country win a lot of medals and which win a lot of medals per person. Like a "magic quadrant"
 ```
 Please plot a matrix where label is country, x is medal per million inhabitant and y is total, it will help show the number of medals but also per million inhabitant information
 ```
