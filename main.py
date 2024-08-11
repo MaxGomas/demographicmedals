@@ -2,14 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def plot_medals_per_million_inhabitants(df):
-    plt.bar(df['Country'], df['medal per million inhabitants'])
-    plt.xlabel('Country')
-    plt.ylabel('Medals per million inhabitants')
-    plt.title('Medals per million inhabitants')
-    plt.xticks(rotation=90)  # Rotate country names for better readability
-    plt.show()
-
 def plot_medals_tally(df):
     # Assuming df has columns 'Country', 'Gold', 'Silver', 'Bronze'
     countries = df['Country']
