@@ -103,9 +103,9 @@ Would you like help creating any of these graphs?
 
 ### Python
 
-Starting to build a classic medal tally in order to read data correctly. The previous table has been imported as a .csv
+Starting to build a classic medal tally in order to read data correctly. The previous table has been imported as a .csv. I'll share GitHub Copilot corresponding prompts
 ```
-def plot_medals_tally(df)
+Create a stackbar chart with label is country, then the bars are the corresponding Gold, Silver and Bronze column
 ```
 ![imgaeTally](graphs/medaltally.png)
 
@@ -113,7 +113,7 @@ def plot_medals_tally(df)
 
 After that, pusing the analyzis in order to show which country win a lot of medals and which win a lot of medals per person. Like a "magic quadrant"
 ```
-def plot_medals_vs_medals_per_million(df)
+Please plot a matrix where label is country, x is medal per million inhabitant and y is total, it will help show the number of medals but also per million inhabitant information
 ```
 ![imgaeTally](graphs/matrix_permil.png)
 
