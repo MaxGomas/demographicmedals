@@ -33,7 +33,8 @@ def plot_medals_tally(df):
     plt.title('Medals Tally')
     plt.legend()
 
-    plt.xticks(rotation=90)  # Rotate country names for better readability
+    plt.xticks(rotation=90, ha='right')  # Rotate country names for better readability and align them to the right
+    plt.tight_layout()  # Adjust the spacing between subplots to prevent overlapping
     plt.show()
 
 def plot_medals_vs_medals_per_million(df):

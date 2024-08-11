@@ -1,16 +1,15 @@
-# Demographicmedals
+# Demographic Medals
 
 ## Intro
 
-🎯 Explore and explain olympic medal winning using demographic data, espacially medals per capita
+🎯 Explore and start explaining olympic medal winning countries results
 
-🎯 In ~10 min using cutting edge genAI tools 
+🎯 Do it in ~10 min using cutting edge genAI tools 
 - Github Copilot
 - Copilot for web
 
 ## Reasoning with AI
 
----
 
 **You:**
 
@@ -110,7 +109,7 @@ def plot_medals_tally(df)
 ```
 ![imgaeTally](graphs/medaltally.png)
 
-*what's worth noticing is that GitHub Copilot understood the context and even propose to color stack bar accordingly. I had to iterate in order to display medal count*
+*what's worth noticing is that GitHub Copilot understood the context and even propose to stack bar's color accordingly. I had to iterate in order to display medal count*
 
 After that, cracking the medal per cap data display
 ```
