@@ -117,7 +117,7 @@ def plot_medals_vs_medals_per_million(df)
 ```
 ![imgaeTally](graphs/matrix_permil.png)
 
-*I made Copilot understand exactly what I wanted. two adjustment were to convert the dataframe column in real numbers (removing ","), then asking for some space when displaying labels*
+*I made Copilot understand exactly what I wanted. Two challenge I encountered were solved by converting the dataframe column in real numbers (removing ","), then asking for some space when displaying labels*
 
 ---
 
